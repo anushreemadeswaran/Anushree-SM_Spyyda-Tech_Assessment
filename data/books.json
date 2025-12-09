@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "id": "876129db",
+      "title": "Python for Beginners",
+      "author": "Mark Daniels",
+      "copies": 2,
+      "borrowed": 0
+    }
+  ]
+}
