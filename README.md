@@ -1,8 +1,4 @@
-# Assignment Submission
-# Project: Multi-Utility CLI Application
-
-A single Python command-line program that combines all required functionalities into one simple menu.
-All data (books, URLs, calculator history) is stored automatically using JSON files inside a data/ folder.
+CLI Application
 
 # How to Run
 Requires Python 3.8+
@@ -74,12 +70,3 @@ After each calculation:Expression + result saved to data/calc_history.json
 Users can view entire calculation history
 Simple and safe character-validated input
 
-# General Notes
-JSON storage ensures data persists even after closing the program
-Code is intentionally simple and readable
-No third-party libraries required
-Ideal for structured, clear demonstration of logic for a coding round
-
-# Submission
-Submit the Anushree SM_Spyyda Tech_Assessment.zip file or upload to GitHub as required
-Ensure all files, especially the data/ folder, are included
